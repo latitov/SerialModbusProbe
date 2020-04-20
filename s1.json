@@ -1,0 +1,5 @@
+	{	"BaudRate":	9600,
+		"DataBits":	8,
+		"Parity":	"N",
+		"StopBits":	1
+	}
