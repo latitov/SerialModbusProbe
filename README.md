@@ -37,7 +37,7 @@ Example:
 
 On Windows:
 
-	./SerialModbusProbe COM3 s1.json "0x01 0x02 0x03 0x00 +CRC"
+	SerialModbusProbe.exe COM3 s1.json "0x01 0x02 0x03 0x00 +CRC"
 
 Note, this program operation requires access (possibly root?) to /dev/tty*
 
