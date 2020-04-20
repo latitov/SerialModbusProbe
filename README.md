@@ -2,7 +2,7 @@
 
 # Diagnostic/testing tool for serial Modbus
 
-### Indispensable tool in automation engineer toolbox, when something fails to work.
+### Indispensable tool in automation engineer's toolbox, when something fails to work.
 
 (c) 2019-2020, Leonid Titov.
 
