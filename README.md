@@ -6,6 +6,12 @@
 
 (c) 2019-2020, Leonid Titov.
 
+Diagnostic testing tool for serial Modbus. Indispensable tool in automation engineer's toolbox, when something fails to work. Useful to probe and configure IO modules. Also can be used to troubleshoot RS485 communication buses.
+
+Tested on Linux and Windows.
+
+Written in Go. (Source code? Ask for it).
+
 Usage:
 
 	./SerialModbusProbe <device> <JSON_config_file> <message>
