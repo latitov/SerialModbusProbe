@@ -1,6 +1,6 @@
-# ModbusProbe
+# SerialModbusProbe
 
-# Diagnostic/testing tool for serial Modbus
+# Diagnostic/testing tool for serial MODBUS (MODBUS-RTU), DCON, simply serial, anything serial
 
 ### Indispensable tool in automation engineer's toolbox, when something fails to work.
 
