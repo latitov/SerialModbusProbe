@@ -14,7 +14,7 @@ Written in Go. (Source code? Ask for it).
 
 Usage:
 
-	./SerialModbusProbe <device> <JSON_config_file> <message>
+	./SerialModbusProbe <device> <JSON_config_file> <message> 
 
 Message:
 
